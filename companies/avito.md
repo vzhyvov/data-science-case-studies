@@ -1,0 +1,43 @@
+# Avito data science and machine learning case studies
+
+How Avito solved product analytics, experimentation and ML problems, newest first. [← all companies](README.md) · [on effectsize.io](https://effectsize.io/?company=avito)
+
+| Case | Topic | Year | Source |
+|---|---|---|---|
+| [How Ad Ranking Works at Avito](https://effectsize.io/cases/how-ad-ranking-works-at-avito/) | Recommendations | 2026 | [original](https://www.youtube.com/watch?v=pn9lllETubE) |
+| [How Transformers Increased Candidate Diversity on the Avito Home Page](https://effectsize.io/cases/how-transformers-increased-candidate-diversity-on-the-avito/) | Recommendations | 2026 | [original](https://www.youtube.com/watch?v=hz1TVNsO4Ac) |
+| [Neural Ranking for Recommendations](https://effectsize.io/cases/neural-ranking-for-recommendations/) | Recommendations | 2026 | [original](https://www.youtube.com/watch?v=ImHmXKzIga4) |
+| [Avi-Pro: An Assistant for Sellers on Avito](https://effectsize.io/cases/avi-pro-an-assistant-for-sellers-on-avito/) | LLM in analytics | 2026 | [original](https://www.youtube.com/watch?v=LU25HBUTd8c) |
+| [LLMs for Arbitrage in New-Build Real Estate](https://effectsize.io/cases/llms-for-arbitrage-in-new-build-real-estate/) | LLM in analytics | 2026 | [original](https://www.youtube.com/watch?v=-wciYkzKpl4) |
+| [AI Assistant for Sales](https://effectsize.io/cases/ai-assistant-for-sales/) | LLM in analytics | 2026 | [original](https://www.youtube.com/watch?v=njr8mFhwJEE) |
+| [From an LLM Portal to a Factory of Internal Agents](https://effectsize.io/cases/from-an-llm-portal-to-a-factory-of-internal-agents/) | LLM in analytics | 2026 | [original](https://www.youtube.com/watch?v=FE3tNoC68JU) |
+| [ML Ad Forecaster: Estimating Results Before Launch](https://effectsize.io/cases/ml-ad-forecaster-estimating-results-before-launch/) | Predictive models | 2026 | [original](https://www.youtube.com/watch?v=4UlBOay9nUU) |
+| [Attribution of Long-Range Actions in Conversion Models](https://effectsize.io/cases/attribution-of-long-range-actions-in-conversion-models/) | Predictive models | 2026 | [original](https://www.youtube.com/watch?v=HKB0wnDwIMw) |
+| [How We Do RL for Our LLM at Avito](https://effectsize.io/cases/how-we-do-rl-for-our-llm-at-avito/) | LLM in analytics | 2026 | [original](https://www.youtube.com/watch?v=EmYWBy-gPFk) |
+| [Deploying LLMs in Moderation: From PoC to the Target Solution](https://effectsize.io/cases/deploying-llms-in-moderation-from-poc-to-the-target-solution/) | Fraud | 2026 | [original](https://www.youtube.com/watch?v=MURmxFBvuxQ) |
+| [Solving the Task: Life Hacks from the Task Author (AvitoTech ML Cup 2026)](https://effectsize.io/cases/solving-the-task-life-hacks-from-the-task-author-avitotech/) | Recommendations | 2026 | [original](https://www.youtube.com/watch?v=eE1u5y2ySWI) |
+| [Winner's Solution Walkthrough: 1st Place (AvitoTech ML Cup 2026)](https://effectsize.io/cases/winner-s-solution-walkthrough-1st-place-avitotech-ml-cup/) | Recommendations | 2026 | [original](https://www.youtube.com/watch?v=eE1u5y2ySWI) |
+| [Winner's Solution Walkthrough: 2nd Place (AvitoTech ML Cup 2026)](https://effectsize.io/cases/winner-s-solution-walkthrough-2nd-place-avitotech-ml-cup/) | Recommendations | 2026 | [original](https://www.youtube.com/watch?v=eE1u5y2ySWI) |
+| [Winner's Solution Walkthrough: 3rd Place (AvitoTech ML Cup 2026)](https://effectsize.io/cases/winner-s-solution-walkthrough-3rd-place-avitotech-ml-cup/) | Recommendations | 2026 | [original](https://www.youtube.com/watch?v=eE1u5y2ySWI) |
+| [Models in Monetization](https://effectsize.io/cases/models-in-monetization/) | Search | 2026 | [original](https://www.youtube.com/watch?v=QMHBkGPdo0Q) |
+| [A Neural Network User Interest Model: How We Improved Diversity and Relevance of Recommendations on the Avito Home Page](https://effectsize.io/cases/a-neural-network-user-interest-model-how-we-improved/) | Recommendations | 2025 | [original](https://www.youtube.com/watch?v=wJEKhHaQxG8) |
+| [How the Effect Forecast for Paid Listing Promotion at Avito Works: Algorithms and Metrics Under the Hood](https://effectsize.io/cases/how-the-effect-forecast-for-paid-listing-promotion-at-avito/) | Predictive models | 2025 | [original](https://www.youtube.com/watch?v=rrKa4-9x_80) |
+| [How LLM Automates Work at Avito](https://effectsize.io/cases/how-llm-automates-work-at-avito/) | LLM in analytics | 2025 | [original](https://www.youtube.com/watch?v=-2_9xtzBm2o) |
+| [Description Generation One Year Later. What We Managed to Understand Over the Year](https://effectsize.io/cases/description-generation-one-year-later-what-we-managed-to/) | LLM in analytics | 2025 | [original](https://www.youtube.com/watch?v=h2iBKZATNWE) |
+| [Experience with Transformer-Based Personalization at Avito](https://effectsize.io/cases/experience-with-transformer-based-personalization-at-avito/) | Recommendations | 2025 | [original](https://www.youtube.com/watch?v=Fn-mTFuRpHU) |
+| [How We Grew Sales Team Efficiency with Customer Ranking](https://effectsize.io/cases/how-we-grew-sales-team-efficiency-with-customer-ranking/) | Uplift | 2025 | [original](https://www.youtube.com/watch?v=1ozHNMcpLyw) |
+| [ML in AdTech. The Battle for the Click: How We Beat Historical CTR in Advertising](https://effectsize.io/cases/ml-in-adtech-the-battle-for-the-click-how-we-beat-historical/) | Recommendations | 2025 | [original](https://www.youtube.com/watch?v=myoOhQjidt4) |
+| [Renting Out Smartly: Launching a DS Product in Short-Term Rentals](https://effectsize.io/cases/renting-out-smartly-launching-a-ds-product-in-short-term/) | Search | 2025 | [original](https://www.youtube.com/watch?v=zBwrSflvOjA) |
+| [Internships on the LLM Team: Several LLM Deployments at Avito](https://effectsize.io/cases/internships-on-the-llm-team-several-llm-deployments-at-avito/) | LLM in analytics | 2025 | [original](https://www.youtube.com/watch?v=p8lQnY-jYwU) |
+| [Predicting Time to Sell Real Estate: Why You Can't Just Fit-Predict](https://effectsize.io/cases/predicting-time-to-sell-real-estate-why-you-can-t-just-fit/) | Predictive models | 2025 | [original](https://www.youtube.com/watch?v=WE1pumZpooc) |
+| [Moderation Platformization](https://effectsize.io/cases/moderation-platformization/) | Fraud | 2025 | [original](https://www.youtube.com/watch?v=cj-OLmxEwvA) |
+| [How We Build Avito's Main Product Metric](https://effectsize.io/cases/how-we-build-avito-s-main-product-metric/) | Metrics | 2025 | [original](https://www.youtube.com/watch?v=Tv5IuUUubjU) |
+| [Auto-Generating Product Descriptions in Fashion](https://effectsize.io/cases/auto-generating-product-descriptions-in-fashion/) | LLM in analytics | 2024 | [original](https://www.youtube.com/watch?v=zd6u8jiSqrM) |
+| [How We Moved from a Markov Chain to a SASRec Model](https://effectsize.io/cases/how-we-moved-from-a-markov-chain-to-a-sasrec-model/) | Recommendations | 2024 | [original](https://www.youtube.com/watch?v=YXkcNeCJhgc) |
+| [LLMs at Avito](https://effectsize.io/cases/llms-at-avito/) | LLM in analytics | 2024 | [original](https://www.youtube.com/watch?v=TmrUj1fz1lo) |
+| [Ranking or Calibration? How to Measure the Quality of Advertising CTR Models](https://effectsize.io/cases/ranking-or-calibration-how-to-measure-the-quality-of/) | Recommendations | 2024 | [original](https://www.youtube.com/watch?v=P0F31z9Z18o) |
+| [How We Cut Forecasting Time from Two Weeks to Five Minutes](https://effectsize.io/cases/how-we-cut-forecasting-time-from-two-weeks-to-five-minutes/) | Predictive models | 2024 | [original](https://www.youtube.com/watch?v=acNscSa7iMA) |
+| [Predicting a Listing Category from Its Description and Photo](https://effectsize.io/cases/predicting-a-listing-category-from-its-description-and-photo/) | Search | 2024 | [original](https://www.youtube.com/watch?v=VZv3FCj15N4) · [code](https://effectsize.io/cases/predicting-a-listing-category-from-its-description-and-photo/) |
+| [How We Launched a New Promotion Model: Matching and Regional Tests](https://effectsize.io/cases/how-we-launched-a-new-promotion-model-matching-and-regional/) | Advanced experimentation | 2024 | [original](https://www.youtube.com/watch?v=Njn2WLtFXko) |
+| [Launching Automated Video Moderation](https://effectsize.io/cases/launching-automated-video-moderation/) | Fraud | 2024 | [original](https://www.youtube.com/watch?v=MDU_1Xv2Q7g) |
+| [Split Tests, or How We Simplified Testing New Monetization Mechanisms](https://effectsize.io/cases/split-tests-or-how-we-simplified-testing-new-monetization/) | Advanced experimentation | 2024 | [original](https://www.youtube.com/watch?v=9QMvvHNtJFA) |

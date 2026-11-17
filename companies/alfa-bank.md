@@ -1,0 +1,29 @@
+# Alfa-Bank data science and machine learning case studies
+
+How Alfa-Bank solved product analytics, experimentation and ML problems, newest first. [← all companies](README.md) · [on effectsize.io](https://effectsize.io/?company=alfa-bank)
+
+| Case | Topic | Year | Source |
+|---|---|---|---|
+| [Applying Graph Neural Networks to Credit Scoring at Alfa-Bank](https://effectsize.io/cases/applying-graph-neural-networks-to-credit-scoring-at-alfa/) | Predictive models | 2026 | [original](https://www.youtube.com/watch?v=ps-WRucCU3o) |
+| [Recommendation and Optimization. How to Recommend Cashback to Customers and Not Go Broke?](https://effectsize.io/cases/recommendation-and-optimization-how-to-recommend-cashback-to/) | Personalization | 2025 | [original](https://www.youtube.com/watch?v=eMdLSuo5vyk) |
+| [Analytics, Data, Metrics and Motivation: How to Build a Data Labeling Process in a Large Bank](https://effectsize.io/cases/analytics-data-metrics-and-motivation-how-to-build-a-data/) | Analytics practice | 2025 | [original](https://www.youtube.com/watch?v=P18akQ6oyUY) |
+| [Graph Neural Networks in PD for Small and Micro Business](https://effectsize.io/cases/graph-neural-networks-in-pd-for-small-and-micro-business/) | Predictive models | 2025 | [original](https://www.youtube.com/watch?v=SuuS3Qw5xF0) |
+| [Applying NLP Models to Automate Call Center Work](https://effectsize.io/cases/applying-nlp-models-to-automate-call-center-work/) | Recommendations | 2024 | [original](https://www.youtube.com/watch?v=UJgzXZRNjfg) |
+| [Three Pillars of Successful Data Science Implementation](https://effectsize.io/cases/three-pillars-of-successful-data-science-implementation/) | Analytics practice | 2024 | [original](https://www.youtube.com/watch?v=mUVZyXuqJT8) |
+| [NLP at Alfa-Bank, Part 4: The Development History of a Chatbot](https://effectsize.io/cases/nlp-at-alfa-bank-part-4-the-development-history-of-a-chatbot/) | Predictive models | 2023 | [original](https://www.youtube.com/watch?v=9Yh665rcgMM) |
+| [History of the Unified Classifier Development](https://effectsize.io/cases/history-of-the-unified-classifier-development/) | Predictive models | 2023 | [original](https://www.youtube.com/watch?v=ilCNWq6SDZc) |
+| [NLP at Alfa-Bank, Part 7: Analyzing Customer Feedback](https://effectsize.io/cases/nlp-at-alfa-bank-part-7-analyzing-customer-feedback/) | Insights | 2023 | [original](https://www.youtube.com/watch?v=qWl3DHW3Y68) |
+| [Development History of Voice Bot: Legacy Voice Bot of Alfa-Bank and Transition to Modern Methods](https://effectsize.io/cases/development-history-of-voice-bot-legacy-voice-bot-of-alfa/) | Predictive models | 2023 | [original](https://www.youtube.com/watch?v=BMBCV0DMyP8) |
+| [NLP at Alfa-Bank, Part 8: The Development History of an Operator Assistant](https://effectsize.io/cases/nlp-at-alfa-bank-part-8-the-development-history-of-an/) | Recommendations | 2023 | [original](https://www.youtube.com/watch?v=FM5d53x3c5M) |
+| [Data Clustering: Methods of Semantic Text Analysis and Their Role in Problem Formulation](https://effectsize.io/cases/data-clustering-methods-of-semantic-text-analysis-and-their/) | Insights | 2023 | [original](https://www.youtube.com/watch?v=0131Rh4lBAo) |
+| [NLP at Alfa-Bank, Part 2: Data Labeling](https://effectsize.io/cases/nlp-at-alfa-bank-part-2-data-labeling/) | Data infrastructure | 2023 | [original](https://www.youtube.com/watch?v=0i8ObGGoNz8) |
+| [NLP at Alfa-Bank, Part 3: Modeling](https://effectsize.io/cases/nlp-at-alfa-bank-part-3-modeling/) | Predictive models | 2023 | [original](https://www.youtube.com/watch?v=olRUCq8sn-M) |
+| [NLP at Alfa-Bank, Part 9: Structuring OFD Receipts](https://effectsize.io/cases/nlp-at-alfa-bank-part-9-structuring-ofd-receipts/) | Behavior | 2023 | [original](https://www.youtube.com/watch?v=fWU9EeqUpVo) |
+| [DL in finance: key results, production and new challenges](https://effectsize.io/cases/dl-in-finance-key-results-production-and-new-challenges/) | Predictive models | 2022 | [original](https://www.youtube.com/watch?v=0xSL3XiNTkE) · [code](https://effectsize.io/cases/dl-in-finance-key-results-production-and-new-challenges/) |
+| [Neural Network Models on Card Transactions](https://effectsize.io/cases/neural-network-models-on-card-transactions/) | Predictive models | 2022 | [original](https://www.youtube.com/watch?v=OVoAwDLh0lY) · [code](https://effectsize.io/cases/neural-network-models-on-card-transactions/) |
+| [Beating distribution shift in neural credit scoring](https://effectsize.io/cases/beating-distribution-shift-in-neural-credit-scoring/) | Predictive models | 2022 | [original](https://www.youtube.com/watch?v=ws7nCwUJJ9Y) |
+| [Unified Neural Network Credit Scoring Model](https://effectsize.io/cases/unified-neural-network-credit-scoring-model/) | Predictive models | 2022 | [original](https://www.youtube.com/watch?v=z8kPHH7wT8A) |
+| [Churn and Propensity Tasks on Neural Network Transaction Models](https://effectsize.io/cases/churn-and-propensity-tasks-on-neural-network-transaction/) | Predictive models | 2022 | [original](https://www.youtube.com/watch?v=sQepyHAH6-k) |
+| [Neural network models on OFD receipt sequences](https://effectsize.io/cases/neural-network-models-on-ofd-receipt-sequences/) | Predictive models | 2022 | [original](https://www.youtube.com/watch?v=OWqMEhjifKg) |
+| [Social Scoring and a Phone-Number-Based Approval Model](https://effectsize.io/cases/social-scoring-and-a-phone-number-based-approval-model/) | Predictive models | 2022 | [original](https://www.youtube.com/watch?v=FLV__vQHL7s) |
+| [Neural network approach for processing sequential data in a bank](https://effectsize.io/cases/neural-network-approach-for-processing-sequential-data-in-a/) | Predictive models | 2022 | [original](https://www.youtube.com/watch?v=yo4sN0dCFLY) · [code](https://effectsize.io/cases/neural-network-approach-for-processing-sequential-data-in-a/) |

@@ -1,0 +1,28 @@
+# Grab data science and machine learning case studies
+
+How Grab solved product analytics, experimentation and ML problems, newest first. [← all companies](README.md) · [on effectsize.io](https://effectsize.io/?company=grab)
+
+| Case | Topic | Year | Source |
+|---|---|---|---|
+| [Powering AI-led research through simulation](https://effectsize.io/cases/powering-ai-led-research-through-simulation/) | Advanced experimentation | 2026 | [original](https://engineering.grab.com/powering-ai-led-research-through-simulation) |
+| [Automated merchant review summary system with integrated feedback](https://effectsize.io/cases/automated-merchant-review-summary-system-with-integrated/) | LLM in analytics | 2026 | [original](https://engineering.grab.com/automated-merchant-review-summary-system-with-integrated-feedback) |
+| [Building Jarvis Pro: Route first, answer later](https://effectsize.io/cases/building-jarvis-pro-route-first-answer-later/) | LLM in analytics | 2026 | [original](https://engineering.grab.com/jarvis-pro-route-firsr-answer-later) |
+| [How AI is transforming analytics at Grab](https://effectsize.io/cases/how-ai-is-transforming-analytics-at-grab/) | LLM in analytics | 2026 | [original](https://engineering.grab.com/how-ai-is-transforming-analytics) |
+| [Crowdsourced taxonomy verification: A feedback-driven framework for refining knowledge graph relationships via online search interactions](https://effectsize.io/cases/crowdsourced-taxonomy-verification-a-feedback-driven/) | Search | 2026 | [original](https://engineering.grab.com/crowdsourced-taxonomy-verification) |
+| [Demystifying user journeys: Revolutionizing troubleshooting with auto tracking](https://effectsize.io/cases/demystifying-user-journeys-revolutionizing-troubleshooting/) | Clickstream | 2025 | [original](https://engineering.grab.com/auto-track-sdk) |
+| [Real-time data quality monitoring: Kafka stream contracts with syntactic and semantic test](https://effectsize.io/cases/real-time-data-quality-monitoring-kafka-stream-contracts/) | Data infrastructure | 2025 | [original](https://engineering.grab.com/real-time-data-quality-monitoring) |
+| [User foundation models for Grab](https://effectsize.io/cases/user-foundation-models-for-grab/) | Recommendations | 2025 | [original](https://engineering.grab.com/user-foundation-models-for-grab) |
+| [The evolution of Grab's machine learning feature store](https://effectsize.io/cases/the-evolution-of-grab-s-machine-learning-feature-store/) | Data infrastructure | 2025 | [original](https://engineering.grab.com/evolution-of-grab-machine-learning-feature-store) |
+| [Streamlining RiskOps with the SOP agent framework](https://effectsize.io/cases/streamlining-riskops-with-the-sop-agent-framework/) | Fraud | 2025 | [original](https://engineering.grab.com/streamlining-riskops-with-sop) |
+| [LLM-assisted vector similarity search](https://effectsize.io/cases/llm-assisted-vector-similarity-search/) | Search | 2024 | [original](https://engineering.grab.com/llm-assisted-vector-similarity-search) |
+| [Leveraging RAG-powered LLMs for analytical tasks](https://effectsize.io/cases/leveraging-rag-powered-llms-for-analytical-tasks/) | LLM in analytics | 2024 | [original](https://engineering.grab.com/transforming-the-analytics-landscape-with-RAG-powered-LLM) |
+| [How we evaluated the business impact of marketing campaigns](https://effectsize.io/cases/how-we-evaluated-the-business-impact-of-marketing-campaigns/) | A/B testing | 2024 | [original](https://engineering.grab.com/evaluate-business-impact-of-marketing-campaigns) |
+| [Grab Experiment Decision Engine - a Unified Toolkit for Experimentation](https://effectsize.io/cases/grab-experiment-decision-engine-a-unified-toolkit-for/) | A/B testing | 2024 | [original](https://engineering.grab.com/grabx-decision-engine) |
+| [Stepping up marketing for advertisers: Scalable lookalike audience](https://effectsize.io/cases/stepping-up-marketing-for-advertisers-scalable-lookalike/) | Personalization | 2023 | [original](https://engineering.grab.com/scalable-lookalike-audiences) |
+| [Unsupervised graph anomaly detection - Catching new fraudulent behaviours](https://effectsize.io/cases/unsupervised-graph-anomaly-detection-catching-new-fraudulent/) | Fraud | 2023 | [original](https://engineering.grab.com/graph-anomaly-model) |
+| [Graph for fraud detection](https://effectsize.io/cases/graph-for-fraud-detection/) | Fraud | 2022 | [original](https://engineering.grab.com/graph-for-fraud-detection) |
+| [Query expansion based on user behaviour](https://effectsize.io/cases/query-expansion-based-on-user-behaviour/) | Search | 2022 | [original](https://engineering.grab.com/query-expansion-based-on-user-behaviour) |
+| [Using mobile sensor data to encourage safer driving](https://effectsize.io/cases/using-mobile-sensor-data-to-encourage-safer-driving/) | Behavior | 2022 | [original](https://engineering.grab.com/using-mobile-sensor-data-to-encourage-safer-driving) |
+| [Automatic rule backtesting with large quantities of data](https://effectsize.io/cases/automatic-rule-backtesting-with-large-quantities-of-data/) | Fraud | 2022 | [original](https://engineering.grab.com/automatic-rule-backtesting) |
+| [Automated Experiment Analysis - Making experimental analysis scalable](https://effectsize.io/cases/automated-experiment-analysis-making-experimental-analysis/) | A/B testing | 2022 | [original](https://engineering.grab.com/automated-experiment-analysis) |
+| [Search architecture revamp](https://effectsize.io/cases/search-architecture-revamp/) | Search | 2022 | [original](https://engineering.grab.com/search-architecture-revamp) |

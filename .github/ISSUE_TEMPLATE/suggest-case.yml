@@ -1,0 +1,20 @@
+name: Suggest a case study
+description: Propose a case study for the list
+title: "Suggest: "
+labels: ["suggestion"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Link to the article or talk
+    validations:
+      required: true
+  - type: input
+    id: who
+    attributes:
+      label: Company
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it belongs here
+      description: The product problem it solves and the method used.

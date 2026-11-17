@@ -1,0 +1,21 @@
+# Zillow data science and machine learning case studies
+
+How Zillow solved product analytics, experimentation and ML problems, newest first. [← all companies](README.md) · [on effectsize.io](https://effectsize.io/?company=zillow)
+
+| Case | Topic | Year | Source |
+|---|---|---|---|
+| [Beyond Clicks: Designing AI-Driven User Memory for Personalization](https://effectsize.io/cases/beyond-clicks-designing-ai-driven-user-memory-for/) | Personalization | 2025 | [original](https://zillow.com/tech/designing-ai-driven-user-memory-for-personalization) |
+| [Leveraging Knowledge Graphs in Real Estate Search](https://effectsize.io/cases/leveraging-knowledge-graphs-in-real-estate-search/) | Search | 2025 | [original](https://zillow.com/tech/leveraging-knowledge-graphs-in-real-estate-search) |
+| [Next Best Action platform: democratizing personalization with contextual bandits](https://effectsize.io/cases/next-best-action-platform-democratizing-personalization-with/) | Personalization | 2024 | [original](https://zillow.com/tech/next-best-action-platform-democratizing-personalization-with-contextual-bandits) |
+| [Building a strong foundation to accelerate StreetEasy’s data science efforts](https://effectsize.io/cases/building-a-strong-foundation-to-accelerate-streeteasy-s-data/) | Analytics practice | 2024 | [original](https://zillow.com/tech/building-a-strong-foundation-to-accelerate-streeteasys-data-science-efforts) |
+| [Using AI to Understand the Complexities and Pitfalls of Real Estate Data](https://effectsize.io/cases/using-ai-to-understand-the-complexities-and-pitfalls-of-real/) | Insights | 2024 | [original](https://zillow.com/tech/using-ai-to-understand-the-complexities-and-pitfalls-of-real-estate-data) |
+| [Navigating Fair Housing Guardrails in LLMs](https://effectsize.io/cases/navigating-fair-housing-guardrails-in-llms/) | LLM in analytics | 2024 | [original](https://zillow.com/tech/navigating-fair-housing-guardrails-in-llms) |
+| [Imputing Data for the Zestimate](https://effectsize.io/cases/imputing-data-for-the-zestimate/) | Predictive models | 2023 | [original](https://zillow.com/tech/imputing-data-for-the-zestimate) |
+| [SpectroBrain: Detecting Phone Spam with Semi-Supervised Learning](https://effectsize.io/cases/spectrobrain-detecting-phone-spam-with-semi-supervised/) | Fraud | 2023 | [original](https://zillow.com/tech/spectrobrain-detecting-phone-spam-with-semi-supervised-learning) |
+| [The Data Infra Behind Zillow's 3x Growth in Experiment Volume](https://effectsize.io/cases/the-data-infra-behind-zillow-s-3x-growth-in-experiment/) | A/B testing | 2023 | [original](https://zillow.com/tech/the-data-infra-behind-zillows-3x-growth-in-experiment-volume) |
+| [Building the Neural Zestimate](https://effectsize.io/cases/building-the-neural-zestimate/) | Predictive models | 2023 | [original](https://zillow.com/tech/building-the-neural-zestimate) |
+| [Helping users discover their dream homes through home insights collections](https://effectsize.io/cases/helping-users-discover-their-dream-homes-through-home/) | Recommendations | 2023 | [original](https://zillow.com/tech/helping-users-discover-their-dream-homes-through-home-insights-collections) |
+| [How Zillow Data Science Measures Business Outcomes with Bayesian Statistics](https://effectsize.io/cases/how-zillow-data-science-measures-business-outcomes-with/) | Metrics | 2023 | [original](https://zillow.com/tech/how-zillow-data-science-measures-business-outcomes-with-bayesian-statistics) |
+| [Identifying High-Intent Buyers](https://effectsize.io/cases/identifying-high-intent-buyers/) | Predictive models | 2022 | [original](https://zillow.com/tech/identifying-high-intent-buyers) |
+| [Incorporating Listing Descriptions into the Zestimate](https://effectsize.io/cases/incorporating-listing-descriptions-into-the-zestimate/) | Predictive models | 2022 | [original](https://zillow.com/tech/incorporating-listing-descriptions-into-the-zestimate) |
+| [Helping Home Shoppers Find a Home to Love Through Home Insights](https://effectsize.io/cases/helping-home-shoppers-find-a-home-to-love-through-home/) | Personalization | 2022 | [original](https://zillow.com/tech/helping-shoppers-find-a-home-using-home-insights) |
