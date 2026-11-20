@@ -24,4 +24,5 @@ How Lyft solved product analytics, experimentation and ML problems, newest first
 | [Pricing at Lyft](https://effectsize.io/cases/pricing-at-lyft/) | Growth | 2022 | [original](https://eng.lyft.com/pricing-at-lyft-8a4022065f8b) |
 | [Causal Forecasting at Lyft (Part 1)](https://effectsize.io/cases/causal-forecasting-at-lyft-part-1/) | Causal inference | 2022 | [original](https://eng.lyft.com/causal-forecasting-at-lyft-part-1-14cca6ff3d6d) |
 | [Full-Spectrum ML Model Monitoring at Lyft](https://effectsize.io/cases/full-spectrum-ml-model-monitoring-at-lyft/) | Data infrastructure | 2022 | [original](https://eng.lyft.com/full-spectrum-ml-model-monitoring-at-lyft-a4cdaf828e8f) |
+| [Reducing Marketplace Interference Bias Via Shadow Prices](https://effectsize.io/cases/reducing-marketplace-interference-bias-via-shadow-prices/) | Advanced experimentation | 2022 | [original](https://arxiv.org/abs/2205.02274) |
 | [Challenges in Experimentation](https://effectsize.io/cases/challenges-in-experimentation/) | Advanced experimentation | 2022 | [original](https://eng.lyft.com/challenges-in-experimentation-be9ab98a7ef4) |
